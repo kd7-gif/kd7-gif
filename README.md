@@ -9,8 +9,10 @@ sides of a product: the interface people use and the systems behind it.
   appliances business. Built with React, Node.js, Express and MySQL, with customer
   accounts, Paystack checkout, delivery and pickup options, and an admin panel for
   managing products and orders.
-- **Nigerian Drought Prediction**: a machine learning model that forecasts drought
-  conditions across Nigeria using historical climate data. Built as my final-year project.
+- **[Nigerian Drought Forecast Platform](https://github.com/kd7-gif/Nigerian-drought-prediction)**:
+  a full-stack platform forecasting drought for all 37 Nigerian states up to six months ahead.
+  GRU and Transformer models in PyTorch, served through FastAPI to a React and Express dashboard.
+  The best model reached R² 0.866. Built as my final-year project.
 
 ### 🌱 Currently
 - Deepening my knowledge of AI and machine learning
@@ -25,6 +27,8 @@ sides of a product: the interface people use and the systems behind it.
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
