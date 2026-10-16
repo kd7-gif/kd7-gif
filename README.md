@@ -33,4 +33,3 @@ sides of a product: the interface people use and the systems behind it.
 - Email: [kunle.15daramola@gmail.com](mailto:kunle.15daramola@gmail.com)
 - LinkedIn: [Ayomikunle Daramola](https://www.linkedin.com/in/ayomikunle-daramola-95b738260/)
 
-📍 Nigeria
