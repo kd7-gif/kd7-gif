@@ -5,7 +5,7 @@ I studied Software Engineering at Bowen University and I enjoy working on both
 sides of a product: the interface people use and the systems behind it.
 
 ### 🚀 Featured projects
-- **[Arede Homes, custom store]([https://aredehomes.com](https://arede-production.up.railway.app))**: a live e-commerce store for a home and
+- **[Arede Homes, custom store]((https://arede-production.up.railway.app))**: a deployed e-commerce store for a home and
   appliances business. Built with React, Node.js, Express and MySQL, with customer
   accounts, Paystack checkout, delivery and pickup options, and an admin panel for
   managing products and orders.
