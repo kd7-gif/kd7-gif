@@ -5,6 +5,12 @@ I studied Software Engineering at Bowen University and I enjoy working on both
 sides of a product: the interface people use and the systems behind it.
 
 ### 🚀 Featured projects
+- **[Turnup](https://github.com/kd7-gif/turnup)** · [Live demo](https://turnup-demo.netlify.app):
+  an events and ticketing platform. Guests discover events, see which friends are going and buy
+  tickets; hosts sell tickets, check guests in with QR codes and watch arrivals on a live dashboard.
+  Tickets are held for 10 minutes at checkout with one atomic database update, and a load test of
+  500 people rushing for 100 tickets sells exactly 100 (the naive approach oversells by 552).
+  Built with React, Express, MySQL and Socket.IO, with 51 API tests.
 - **[ChopDash](https://github.com/kd7-gif/chopdash)** · [Live demo](https://chopdash-demo.netlify.app):
   a food delivery platform with three apps in one: customers order, restaurants manage orders
   from a kitchen dashboard, and riders deliver from a phone-first app. Every status change is
@@ -22,8 +28,8 @@ sides of a product: the interface people use and the systems behind it.
 
 ### 🌱 Currently
 - Deepening my knowledge of AI and machine learning
+- Building a real-time payment fraud detection system with Python, scikit-learn and FastAPI
 - Building full-stack web apps with React, Node.js, Express, PostgreSQL and MySQL
-- Working on real-time features and recommendation systems
 
 ### 🛠️ Tech I work with
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
