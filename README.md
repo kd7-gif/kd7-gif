@@ -1,8 +1,9 @@
 # Hi, I'm Ayomikunle Daramola 👋
 
-Web developer building full-stack applications, now expanding into AI and machine learning.
-I studied Software Engineering at Bowen University and I enjoy working on both
-sides of a product: the interface people use and the systems behind it.
+Software engineer building full-stack web products and machine learning systems for real
+Nigerian problems. I studied Software Engineering at Bowen University and enjoy working on
+both sides of a product: the interface people use and the systems behind it.
+Based in Nigeria, open to roles and freelance work.
 
 **Portfolio:** [ayomikunle-daramolaa.netlify.app](https://ayomikunle-daramolaa.netlify.app)
 
