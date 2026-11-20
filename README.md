@@ -4,6 +4,8 @@ Web developer building full-stack applications, now expanding into AI and machin
 I studied Software Engineering at Bowen University and I enjoy working on both
 sides of a product: the interface people use and the systems behind it.
 
+**Portfolio:** [ayomikunle-daramolaa.netlify.app](https://ayomikunle-daramolaa.netlify.app)
+
 ### 🚀 Featured projects
 - **[Turnup](https://github.com/kd7-gif/turnup)** · [Live demo](https://turnup-demo.netlify.app):
   an events and ticketing platform. Guests discover events, see which friends are going and buy
@@ -51,3 +53,4 @@ sides of a product: the interface people use and the systems behind it.
 ### 📫 Get in touch
 - Email: [kunle.15daramola@gmail.com](mailto:kunle.15daramola@gmail.com)
 - LinkedIn: [Ayomikunle Daramola](https://www.linkedin.com/in/ayomikunle-daramola-95b738260/)
+- - Portfolio: [daramolaa.netlify.app](https://daramolaa.netlify.app)
