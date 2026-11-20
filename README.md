@@ -7,6 +7,13 @@ sides of a product: the interface people use and the systems behind it.
 **Portfolio:** [ayomikunle-daramolaa.netlify.app](https://ayomikunle-daramolaa.netlify.app)
 
 ### 🚀 Featured projects
+- **[Kundar Travel](https://github.com/kd7-gif/kundar-travel)** · [Live site](https://kundar-travel.netlify.app) · [Host dashboard](https://kundar-travel-host.netlify.app):
+  a stays-booking platform for places in Lagos, Abuja, Ibadan and Port Harcourt. Guests search
+  by city, dates and group size, then place a 15-minute hold with a live countdown; hosts manage
+  listings, photos and a blocking calendar from their own dashboard. Double bookings are ruled
+  out by the database itself (one row per night under a unique key): 20 guests booking the same
+  dates at once get exactly one booking and nineteen clean rejections. Built with plain JavaScript,
+  React, Express and MySQL. Demo host login: `adaeze@host.kundar.test` / `kundar-host-demo`.
 - **[Turnup](https://github.com/kd7-gif/turnup)** · [Live demo](https://turnup-demo.netlify.app):
   an events and ticketing platform. Guests discover events, see which friends are going and buy
   tickets; hosts sell tickets, check guests in with QR codes and watch arrivals on a live dashboard.
@@ -53,4 +60,4 @@ sides of a product: the interface people use and the systems behind it.
 ### 📫 Get in touch
 - Email: [kunle.15daramola@gmail.com](mailto:kunle.15daramola@gmail.com)
 - LinkedIn: [Ayomikunle Daramola](https://www.linkedin.com/in/ayomikunle-daramola-95b738260/)
-- Portfolio: [daramolaa.netlify.app](https://ayomikunle-daramolaa.netlify.app)
+- Portfolio: [ayomikunle-daramolaa.netlify.app](https://ayomikunle-daramolaa.netlify.app)
